@@ -17,7 +17,7 @@ A simple web-application written using Python Flask for educational purposes.
 
     * Linux
 
-           source .venv/bin/acivate
+           source .venv/bin/activate
 
     * Windows
 
